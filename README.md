@@ -6,36 +6,36 @@
 
 ## Professional Summary
 
-* **Software Developer Intern at Virtusa** — Gaining enterprise-level experience maintaining microservices and core application modules[cite: 1].
-* **Dual-Degree Undergraduate** — Completing a BSc in IT specializing in Information Systems at the University of Kelaniya (Expected Graduation: August 2026)[cite: 1] and concurrently pursuing a BSc (Hons) in Software Engineering at SLIIT[cite: 1].
-* **Technical Researcher** — Developing an ongoing cognitive style-detection system analyzing user interaction metrics and behavioral patterns[cite: 1].
-* **Engineering Focus** — Experienced in building full-stack applications, designing robust backend microservices, and automating CI/CD infrastructure pipelines[cite: 1].
+* **Software Developer Intern at Virtusa** — Gaining enterprise-level experience maintaining microservices and core application modules.
+* **Dual-Degree Undergraduate** — Completing a BSc in IT specializing in Information Systems at the University of Kelaniya (Expected Graduation: August 2026) and concurrently pursuing a BSc (Hons) in Software Engineering at SLIIT.
+* **Technical Researcher** — Developing an ongoing cognitive style-detection system analyzing user interaction metrics and behavioral patterns.
+* **Engineering Focus** — Experienced in building full-stack applications, designing robust backend microservices, and automating CI/CD infrastructure pipelines.
 
 ---
 
 ## Core Projects
 
 ### Vehicle Service Center Management Platform
-*An end-to-end web application featuring online bookings, vehicle profiling, and an integrated spare parts marketplace[cite: 1].*
+*An end-to-end web application featuring online bookings, vehicle profiling, and an integrated spare parts marketplace.*
 
-[![GitHub](https://img.shields.io/badge/GITHUB-REPO--NAME-black?style=for-the-badge&logo=github)](https://github.com/ImeshLiyanarachchi/Vehicle-Service-Center)
+[![GitHub](https://img.shields.io/badge/GITHUB-REPO--NAME-black?style=for-the-badge&logo=github)](https://github.com/ImeshLiyanaarachchi/SAS_LANKA-SDP-PROJECT.git)
 
 | Component | Technical Implementation and DevOps |
 | :--- | :--- |
-| **Full-Stack Implementation** | Developed online booking workflows, customer feedback systems, and dynamic data modules[cite: 1]. |
-| **CI/CD Automation** | Configured **GitHub Actions** pipelines to automatically build and push frontend/backend Docker images on every codebase update[cite: 1]. |
-| **Image Management** | Implemented GitHub Secrets to securely tag and push registry images as `latest` alongside short commit SHAs for version tracking and rollbacks[cite: 1]. |
+| **Full-Stack Implementation** | Developed online booking workflows, customer feedback systems, and dynamic data modules. |
+| **CI/CD Automation** | Configured **GitHub Actions** pipelines to automatically build and push frontend/backend Docker images on every codebase update. |
+| **Image Management** | Implemented GitHub Secrets to securely tag and push registry images as `latest` alongside short commit SHAs for version tracking and rollbacks. |
 
 ### Microservices Deployment and Cloud CI/CD Pipeline
-*A cloud-native microservices architecture designed for high scalability and secure network infrastructure[cite: 1].*
+*A cloud-native microservices architecture designed for high scalability and secure network infrastructure.*
 
-[![GitHub](https://img.shields.io/badge/GITHUB-REPO--NAME-black?style=for-the-badge&logo=github)](https://github.com/ImeshLiyanarachchi/Microservices-Deployment)
+[![GitHub](https://img.shields.io/badge/GITHUB-REPO--NAME-black?style=for-the-badge&logo=github)](https://github.com/ImeshLiyanaarachchi/CTSE.git)
 
 | Infrastructure | Architecture Details |
 | :--- | :--- |
-| **Cloud Hosting** | Configured, containerized, and deployed via **Azure Container Apps**[cite: 1]. |
-| **Network Security** | Restricted network ingress to isolate internal microservices, securely exposing only the Frontend interface and API Gateway[cite: 1]. |
-| **Automation** | Orchestrated a continuous deployment workflow using GitHub Actions combined with rule-based auto-scaling[cite: 1]. |
+| **Cloud Hosting** | Configured, containerized, and deployed via **Azure Container Apps**. |
+| **Network Security** | Restricted network ingress to isolate internal microservices, securely exposing only the Frontend interface and API Gateway. |
+| **Automation** | Orchestrated a continuous deployment workflow using GitHub Actions combined with rule-based auto-scaling. |
 
 ---
 
@@ -57,13 +57,13 @@
 
 ## Additional Projects
 
-* **Food Ordering and Delivery System:** Designed a scalable microservices platform using the MERN stack integrated with Stripe API for payments and automated Twilio/Nodemailer alert systems[cite: 1].
-* **Personal Finance Tracker:** Created a role-based, multi-currency RESTful API architecture engineered to generate dynamic financial budget and savings reports[cite: 1].
-* **Android Recipe Application:** Developed a native Android application in Java utilizing Firebase Firestore and cloud storage solutions for real-time data handling[cite: 1].
+* **Food Ordering and Delivery System:** Designed a scalable microservices platform using the MERN stack integrated with Stripe API for payments and automated Twilio/Nodemailer alert systems.
+* **Personal Finance Tracker:** Created a role-based, multi-currency RESTful API architecture engineered to generate dynamic financial budget and savings reports.
+* **Android Recipe Application:** Developed a native Android application in Java utilizing Firebase Firestore and cloud storage solutions for real-time data handling.
 
 ---
 
 ## Contact and Professional Networks
 
-* **LinkedIn:** [linkedin.com/in/imesh-liyanaarachchi](https://www.linkedin.com/in/imesh-liyanaarachchi)[cite: 1]
-* **Email:** rimesh021@gmail.com[cite: 1]
+* **LinkedIn:** [linkedin.com/in/imesh-liyanaarachchi](www.linkedin.com/in/imesh-liyanaarachchi-a54502250)
+* **Email:** rimesh021@gmail.com
